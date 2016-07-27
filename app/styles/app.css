@@ -1,0 +1,48 @@
+.left-pane {
+  font-family: 'Oswald', sans-serif;
+}
+
+.right-pane {
+
+}
+
+.main-pane {
+  /*background-color: #3C362A;*/
+  margin-top: 3%;
+  padding-top: 2%;
+  height: 575px;
+}
+
+#content {
+
+}
+
+html {
+  /*background-color: #0A2239;*/
+  background-image: url("http://pre03.deviantart.net/2c06/th/pre/i/2013/136/3/e/free_hexagon_pattern_02_by_black_light_studio-d65g32i.png");
+}
+
+#title {
+  font-size: 110px;
+  font-family: 'Oswald', sans-serif;
+  margin-left: 3%;
+  margin-top: 3%;
+  padding-top: 2%;
+}
+
+.right-pane-container {
+  height: 425px;
+}
+
+.navigator li {
+  display:inline;
+  padding: 2px 8px 2px 8px;
+  /*color: #fff;*/
+}
+
+.navigator li:hover {
+  display:inline;
+  padding: 2px 8px 2px 8px;
+  /*color: #fff;*/
+  font-weight:600;
+}
