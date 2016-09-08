@@ -35,8 +35,8 @@ html {
 }
 
 .navigator li {
-  display:inline;
   padding: 2px 8px 2px 8px;
+  font-size: 30px;
   /*color: #fff;*/
 }
 
